@@ -2,3 +2,5 @@ candy
 store
 test
 1234
+red
+blue
